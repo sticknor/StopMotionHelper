@@ -25,5 +25,7 @@ To make a silent .mov
   * Compression, JPEG
   * Check *Same size as originals*
   * *Create Movie*
+* Add sound with software of choice, I use iMovie on Mac
+
 
 July 2018
